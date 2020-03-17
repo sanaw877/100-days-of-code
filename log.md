@@ -9,7 +9,7 @@
 **Link to work:** I shall link the notebook when I figure that out.
 
 ### Day 1: March 16, 2020 
-##### More VPN issues, so I. had a good chunk of time for learning. Went through most of the data visualization portions of the Udemy DS and ML course.
+##### More VPN issues, so I had a good chunk of time for learning. Went through most of the data visualization portions of the Udemy DS and ML course.
 **Today's Progress**: Completed sections on matplotlib, seaborn, and pandas plotting
 
 **Thoughts**: I knew some of this stuff already but it was a good refresher. One of my goals is to get really good with matplotlib so this is a nice starting point.
