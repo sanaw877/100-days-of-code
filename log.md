@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 15, 2020 
+#### Coronavirus and VPN issues gave me a lot of free time to focus on learning today. While this challenge technically states that courses don't count, I'm going to change that since I believe that the courses I'm taking will help in achieving my goals.
+**Today's Progress**: Completed the Numpy/Pandas sections of the Python for Data Science and Machine Learning course by Jose Portilla on Udemy. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** The exercises weren't too difficult for me, though a good way to practice different ways of doing things. Also learned about the nlargest and nsmallest functions, which is much more efficient that sort_values() so that was nice.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** I shall link the notebook when I figure that out.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: March 16, 2020 
+##### More VPN issues, so I. had a good chunk of time for learning. Went through most of the data visualization portions of the Udemy DS and ML course.
+**Today's Progress**: Completed sections on matplotlib, seaborn, and pandas plotting
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: I knew some of this stuff already but it was a good refresher. One of my goals is to get really good with matplotlib so this is a nice starting point.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: See above
 
 
-### Day 1: June 27, Monday
+### Day 2: March 17, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**:
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
