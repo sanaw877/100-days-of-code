@@ -3,8 +3,15 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+## Additional Goals
+1. Become a pandas/matplotlib/seaborn master
+2. Get decently good with at least one of Altair/Plotly/Bokeh
+3. Learn git
+4. Become comfortable with Flask
+5. Become comfortable with Scrapy/Selenium/BeautifulSoup/urllib/requests.
+
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+Mach 15th, 2020
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
