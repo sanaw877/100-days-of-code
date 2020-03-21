@@ -17,10 +17,10 @@
 **Link(s) to work**: See above
 
 
-### Day 2: March 17, 2020
+### Day 2: March 17-21, 2020
 
-**Today's Progress**:
-**Thoughts** 
+**Today's Progress**: Finished up lessons on data visualization and worked on Flask app for work. 
+**Thoughts** Plotly is really cool but also kind of confusing. Will need to look into it more, since it took me forever to make that map. I've been doing at least an hour of coding a day but keep forgetting to track it! Really need to get better at that.
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/sanaw877/Python-for-DS-Projects
 
