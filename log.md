@@ -29,7 +29,7 @@
 **Today's Progress**: Wrote small script to keep track of my siblings credit card usage. 
 **Thoughts** This was a fun little project. I'd like to add the ability to summarize the info and modify it to run regularly and extract the last X amount of days or something similar.
 
-**Link(s) to work** 
+**Link(s) to work** https://github.com/sanaw877/Short-Scripts/blob/master/spending.py
 
 
 ### Day 8: March 23, 2020
@@ -37,4 +37,4 @@
 **Today's Progress**: Started on new project to analyze NYT obituaries. Wrote small script to find bakeries in NY for volunteer work.
 **Thoughts** I wish API's didn't have limits :(
 
-**Link(s) to work** 
+**Link(s) to work** https://github.com/sanaw877/Short-Scripts/blob/master/bakeries.py
