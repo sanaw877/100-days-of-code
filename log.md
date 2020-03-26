@@ -38,3 +38,10 @@
 **Thoughts** I wish API's didn't have limits :(
 
 **Link(s) to work** https://github.com/sanaw877/Short-Scripts/blob/master/bakeries.py
+
+### Day 9: March 24, 2020
+
+**Today's Progress**: More data visualization practice with matplotlib. Worked on blackjack game for other Udemy class.
+**Thoughts** I am beginning to like matplotlob. Also, why do all classes assume that everyone knows cards. I know noting about cards! Flashbacks to math class.
+
+**Link(s) to work** https://github.com/sanaw877/Short-Scripts/blob/master/blackjack.py
