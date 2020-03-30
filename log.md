@@ -46,6 +46,14 @@
 
 **Today's Progress**: More data visualization practice with matplotlib. Worked on blackjack game for other Udemy class.
 
-**Thoughts** I am beginning to like matplotlob. Also, why do all classes assume that everyone knows cards. I know noting about cards! Flashbacks to math class.
+**Thoughts** I am beginning to like matplotlib. Also, why do all classes assume that everyone knows cards. I know noting about cards! Flashbacks to math class.
 
 **Link(s) to work** https://github.com/sanaw877/Short-Scripts/blob/master/blackjack.py
+
+### Days 10-14: March 24-29, 2020
+
+**Today's Progress**: This week was quite interesting. COVID has made life pretty strange and I was laid off. But onwards and upwards. Que sera, sera. I've got to keep breathing because tomorrow the sun will rise and who knows what the tide could bring? Yes, I did spend half an hour googling inspirational quotes.(Cast Away, for the unfamiliar). Anyway, point is: things could be worse. At least I've got a lot of time to work on projects and learn new stuff (and read!!!). This week I worked on a smattering of small projects, mostly some simple data cleaning and viz. I also made some improvements and additions to my spending tracker script.
+
+**Thoughts** We live in strange times. More relevant thoughts: working on small, quick projects is satisfying and I think I'll do it more often.
+
+**Link(s) to work**
