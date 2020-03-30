@@ -56,6 +56,5 @@
 
 **Thoughts** We live in strange times. More relevant thoughts: working on small, quick projects is satisfying and I think I'll do it more often.
 
-**Link(s) to work** spending.py is linked above (March 22nd)
-                    
+**Link(s) to work** spending.py is linked above (March 22nd)<br/>
                     https://github.com/sanaw877/Python-for-DS-Projects/tree/master/Data%20Cleaning%20Practice 
