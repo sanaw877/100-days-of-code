@@ -58,3 +58,11 @@
 
 **Link(s) to work** spending.py is linked above (March 22nd)<br/>
                     https://github.com/sanaw877/Python-for-DS-Projects/tree/master/Data%20Cleaning%20Practice 
+                    
+### Day 15: March 30, 2020
+
+**Today's Progress**: Fixed nytimes data collection script.
+
+**Thoughts** APIs - so helpful. It's been interesting learning how to work with them and learning to scrape. I find that each time I do either,I learn a lot. I still have a lot to learn but think I'm improving.
+
+**Link(s) to work** https://github.com/sanaw877/nytimes-obits/tree/master
